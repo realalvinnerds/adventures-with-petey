@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/realalvinnerds/adventures-with-petey/issues"
   },
-  "homepage": "https://github.com/realalvinnerds/adventures-with-petey#readme"
+  "homepage": "https://github.com/realalvinnerds/adventures-with-petey#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
