@@ -1,0 +1,20 @@
+{
+  "name": "adventures-with-petey",
+  "version": "1.0.0",
+  "description": "Website Diary depicting all the adventures I had with Petey the week of 3/6 - 3/12!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realalvinnerds/adventures-with-petey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realalvinnerds/adventures-with-petey/issues"
+  },
+  "homepage": "https://github.com/realalvinnerds/adventures-with-petey#readme"
+}
